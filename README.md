@@ -4,6 +4,8 @@
 
 Evgenii Vyaltsev (ORCID 0009-0004-3712-6798), Daniil Vyaltsev — June 2026.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20514229.svg)](https://doi.org/10.5281/zenodo.20514229)
+
 This repository accompanies the preprint of the same name. It contains the paper
 source, the compiled PDF, the **raw per-prompt logs** for every experiment, and a
 single script that **recomputes all figures directly from those logs**.
@@ -111,4 +113,23 @@ follow-ups; neither changes the headline null.
 
 ## Citation
 
-See `CITATION.cff`, or cite the Zenodo DOI once minted.
+**DOI:** [10.5281/zenodo.20514229](https://doi.org/10.5281/zenodo.20514229)
+
+> Vyaltsev, E., & Vyaltsev, D. (2026). *No Critical Key Budget in Query-Axis Top-K
+> Sparse Attention: Long-Context Retention Is Bounded by the Base Model, Not the
+> Compressor.* Zenodo. https://doi.org/10.5281/zenodo.20514229
+
+```bibtex
+@misc{vyaltsev2026nokcrit,
+  author       = {Vyaltsev, Evgenii and Vyaltsev, Daniil},
+  title        = {No Critical Key Budget in Query-Axis Top-K Sparse Attention:
+                  Long-Context Retention Is Bounded by the Base Model, Not the Compressor},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20514229},
+  url          = {https://doi.org/10.5281/zenodo.20514229}
+}
+```
+
+The DOI above is the version DOI for v1.0.0. The concept DOI (always resolving to the
+latest version) is shown on the Zenodo record page.

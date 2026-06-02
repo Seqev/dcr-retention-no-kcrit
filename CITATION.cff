@@ -1,5 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
+doi: 10.5281/zenodo.20514229
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20514229
+    description: "Version DOI (v1.0.0)"
 title: "No Critical Key Budget in Query-Axis Top-K Sparse Attention: Long-Context Retention Is Bounded by the Base Model, Not the Compressor"
 type: article
 authors:
