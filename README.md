@@ -4,7 +4,9 @@
 
 Evgenii Vyaltsev (ORCID 0009-0004-3712-6798), Daniil Vyaltsev — June 2026.
 
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20514229.svg)](https://doi.org/10.5281/zenodo.20514229)
+
 
 This repository accompanies the preprint of the same name. It contains the paper
 source, the compiled PDF, the **raw per-prompt logs** for every experiment, and a
