@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "No Critical Key Budget in Query-Axis Top-K Sparse Attention: Long-Context Retention Is Bounded by the Base Model, Not the Compressor"
+type: article
+authors:
+  - family-names: "Vyaltsev"
+    given-names: "Evgenii"
+    orcid: "https://orcid.org/0009-0004-3712-6798"
+  - family-names: "Vyaltsev"
+    given-names: "Daniil"
+date-released: 2026-06-02
+keywords:
+  - sparse attention
+  - long context
+  - KV cache
+  - retrieval
+  - mechanistic interpretability
+  - matched controls
+license: CC-BY-4.0
+abstract: >
+  Top-K sparse attention is widely deployed on the implicit premise that there is a
+  key budget below which long-context ability collapses. Using a training-free,
+  exact-ranking query-axis selector on Llama-3.2-1B, Qwen2.5-3B and Llama-3.2-3B, we
+  decouple the absolute key budget from context length and show the budget is inert
+  (a 4x swing moves accuracy by <=0.03 at any length), refuting an absolute critical
+  capacity. The long-context limit is the base model's own disambiguation; capacity
+  raises that ceiling without creating a budget threshold. A matched-control causal
+  probe shows attention here is transport, not computation. There is no efficiency
+  cliff in the compressor within the practical operating regime.

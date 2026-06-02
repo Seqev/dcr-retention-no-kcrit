@@ -1,0 +1,311 @@
+{
+  "summary": {
+    "arm3_tell_it_recovered": 30,
+    "n": 30,
+    "recovered_frac": 1.0,
+    "arm1_needle16_recovered": "24/30 (reference from Phase0)",
+    "interpretation": "if arm3 ~ needle16 -> delivery-explained(transport-leaning); if needle16 recovers cases arm3 misses -> computation beyond delivery"
+  },
+  "rows": [
+    {
+      "prompt_id": 1,
+      "target": "4275445",
+      "arm3_first": "4275445",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 2,
+      "target": "9746464",
+      "arm3_first": "9746464",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 4,
+      "target": "8753057",
+      "arm3_first": "8753057",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 6,
+      "target": "8199261",
+      "arm3_first": "8199261",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 8,
+      "target": "8584087",
+      "arm3_first": "8584087",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 10,
+      "target": "3837732",
+      "arm3_first": "3837732",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 11,
+      "target": "9626369",
+      "arm3_first": "9626369",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 12,
+      "target": "8575593",
+      "arm3_first": "8575593",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 14,
+      "target": "1806163",
+      "arm3_first": "1806163",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 15,
+      "target": "1736003",
+      "arm3_first": "1736003",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 16,
+      "target": "2758640",
+      "arm3_first": "2758640",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 17,
+      "target": "3575985",
+      "arm3_first": "3575985",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 18,
+      "target": "8673559",
+      "arm3_first": "8673559",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 19,
+      "target": "9353337",
+      "arm3_first": "9353337",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 20,
+      "target": "5536706",
+      "arm3_first": "5536706",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 22,
+      "target": "9536818",
+      "arm3_first": "9536818",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 23,
+      "target": "2393214",
+      "arm3_first": "2393214",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 24,
+      "target": "2965479",
+      "arm3_first": "2965479",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 26,
+      "target": "4599406",
+      "arm3_first": "4599406",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 27,
+      "target": "3958365",
+      "arm3_first": "3958365",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 32,
+      "target": "5821629",
+      "arm3_first": "5821629",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 33,
+      "target": "4511870",
+      "arm3_first": "4511870",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 35,
+      "target": "1635363",
+      "arm3_first": "1635363",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 36,
+      "target": "2338420",
+      "arm3_first": "2338420",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 39,
+      "target": "6640511",
+      "arm3_first": "6640511",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 41,
+      "target": "8704694",
+      "arm3_first": "8704694",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 42,
+      "target": "4311414",
+      "arm3_first": "4311414",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 43,
+      "target": "6611016",
+      "arm3_first": "6611016",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 44,
+      "target": "5435105",
+      "arm3_first": "5435105",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    },
+    {
+      "prompt_id": 45,
+      "target": "4985524",
+      "arm3_first": "4985524",
+      "recovered": true,
+      "route": {
+        "dcr": 384,
+        "sdpa": 0
+      }
+    }
+  ]
+}
